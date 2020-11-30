@@ -1,0 +1,2 @@
+Hello command line
+This is a test for commits with git 
